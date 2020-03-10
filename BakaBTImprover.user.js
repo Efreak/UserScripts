@@ -2,10 +2,13 @@
 // @name         Bakabt Improver
 // @version      0.1.2
 // @description  Some simple improvements for easier browsing bakabt
-// @author       Cholik
+// @downloadURL  https://github.com/Efreak/BakaBT-Improver/raw/master/BakaBTImprover.user.js
+// @updateURL    https://github.com/Efreak/BakaBT-Improver/raw/master/BakaBTImprover.user.js
+// @homepage     https://github.com/Efreak/BakaBT-Improver
+// @author       Cholik, Efreak
 // @match        https://www.bakabt.me/*
 // @grant        none
-// @namespace https://greasyfork.org/users/201363
+// @namespace    https://github.com/Efreak/BakaBT-Improver
 // ==/UserScript==
 
 (function() {
