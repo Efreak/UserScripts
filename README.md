@@ -1,5 +1,6 @@
 # BakaBT Improver
 
+## [Install](https://github.com/Efreak/BakaBT-Improver/raw/master/BakaBTImprover.user.js)
 This userscript is based on [this](https://greasyfork.org/en/scripts/370934-bakabt-improver) BakaBT Improver script created by Cholik. Currently it only works on the browse page.
 
 Features (can all be toggled, colors can be customized)
