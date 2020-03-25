@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bakabt Improver
-// @version      0.1.7
+// @version      0.1.8
 // @description  Some simple improvements for easier browsing bakabt
 // @downloadURL  https://github.com/Efreak/BakaBT-Improver/raw/master/BakaBTImprover.user.js
 // @updateURL    https://github.com/Efreak/BakaBT-Improver/raw/master/BakaBTImprover.user.js
@@ -87,7 +87,7 @@
         }
         var user = $('.username');
         if(user.length) {
-            userlink = 'https://www.bakabt.me/' + user.attr('href');
+            userlink = window.location.origin+"/" + user.attr('href');
 
             $.ajax({
                 type: 'GET',
