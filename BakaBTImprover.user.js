@@ -2,14 +2,14 @@
 // @name         Bakabt Improver
 // @version      0.1.8
 // @description  Some simple improvements for easier browsing bakabt
-// @downloadURL  https://github.com/Efreak/BakaBT-Improver/raw/master/BakaBTImprover.user.js
-// @updateURL    https://github.com/Efreak/BakaBT-Improver/raw/master/BakaBTImprover.user.js
-// @homepage     https://github.com/Efreak/BakaBT-Improver
+// @downloadURL  https://github.com/Efreak/UserScripts/raw/master/BakaBT-Improver/BakaBTImprover.user.js
+// @updateURL    https://github.com/Efreak/UserScripts/raw/master/BakaBT-Improver/BakaBTImprover.user.js
+// @homepage     https://github.com/Efreak/UserScripts/tree/master/BakaBT-Improver
 // @author       Cholik, Efreak
 // @match        https://www.bakabt.me/*
 // @match        https://bakabt.me/*
 // @grant        none
-// @namespace    https://github.com/Efreak/BakaBT-Improver
+// @namespace    https://github.com/Efreak/UserScripts
 // ==/UserScript==
 
 (function() {
