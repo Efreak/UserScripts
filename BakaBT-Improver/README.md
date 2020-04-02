@@ -1,6 +1,6 @@
-# BakaBT Improver
+# [BakaBT Improver](https://github.com/Efreak/UserScripts/raw/master/BakaBT-Improver/BakaBTImprover.user.js)
 
-## [Install](https://github.com/Efreak/UserScripts/raw/master/BakaBT-Improver/BakaBTImprover.user.js)
+## Description
 This userscript is based on [this](https://greasyfork.org/en/scripts/370934-bakabt-improver) BakaBT Improver script created by Cholik. Currently it only works on the browse page.
 
 Features (can all be toggled, colors can be customized)
@@ -22,6 +22,6 @@ How it works
 5. ❌️ skips creating icons for 'owned' torrents that already have one when updating
    - currently it just removes all the existing icons before updating)
 
-# License
+## License
 
 There's no license on the original script. That means I shouldn't do this (I think?). But I did. You can do what you want with my modifications: CC0, WTFPL, whatever.
