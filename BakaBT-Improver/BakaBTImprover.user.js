@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bakabt Improver
-// @version      0.1.8
+// @version      0.1.9
 // @description  Some simple improvements for easier browsing bakabt
 // @downloadURL  https://github.com/Efreak/UserScripts/raw/master/BakaBT-Improver/BakaBTImprover.user.js
 // @updateURL    https://github.com/Efreak/UserScripts/raw/master/BakaBT-Improver/BakaBTImprover.user.js
@@ -26,7 +26,7 @@
         updateInterval = 5, //in minutes
         $ = window.$;
 
-    if(document.location.pathname.indexOf('/browse.php') > -1) {
+    if(document.location.pathname.indexOf('/browse.php') > -1 || document.location.pathname.indexOf('/adopt.php') > -1) {
         updateKnownTorrents();
     }
 
