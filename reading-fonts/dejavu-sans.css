@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'DejaVu Sans';
+    src: url('https://rawcdn.githack.com/web-fonts/dejavu-sans/cc9b89c2d90ffb03a64c60066361dcc2b15b836b/fonts/dejavu-sans-webfont.eot'); /* IE9 Compat Modes */
+    src: url('https://rawcdn.githack.com/web-fonts/dejavu-sans/cc9b89c2d90ffb03a64c60066361dcc2b15b836b/fonts/dejavu-sans-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('https://rawcdn.githack.com/web-fonts/dejavu-sans/cc9b89c2d90ffb03a64c60066361dcc2b15b836b/fonts/dejavu-sans-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('https://rawcdn.githack.com/web-fonts/dejavu-sans/cc9b89c2d90ffb03a64c60066361dcc2b15b836b/fonts/dejavu-sans-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('https://rawcdn.githack.com/web-fonts/dejavu-sans/cc9b89c2d90ffb03a64c60066361dcc2b15b836b/fonts/dejavu-sans-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('https://rawcdn.githack.com/web-fonts/dejavu-sans/cc9b89c2d90ffb03a64c60066361dcc2b15b836b/fonts/dejavu-sans-webfont.svg#dejavu_sansregular') format('svg'); /* Legacy iOS */
+}

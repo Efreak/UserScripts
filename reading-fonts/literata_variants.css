@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Literata Semibold';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-SemiBold.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-SemiBold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-SemiBold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-SemiBold.otf')  format('opentype') /* this was ttf, not sure what prefers otf */
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Literata Semibold';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-SemiBold_Italic.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-SemiBold_Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-SemiBold_Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-SemiBold_Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-SemiBold_Italic.otf')  format('opentype') /* this was ttf, not sure what prefers otf */
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Literata Medium';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Medium.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Medium.otf')  format('opentype') /* this was ttf, not sure what prefers otf */
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Literata Medium';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Medium_Italic.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Medium_Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Medium_Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Medium_Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Medium_Italic.otf')  format('opentype') /* this was ttf, not sure what prefers otf */
+  font-weight: bold;
+  font-style: italic;
+}

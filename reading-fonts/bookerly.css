@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Bookerly';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-Regular.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bookerly';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-RegularItalic.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-RegularItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-RegularItalic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-RegularItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-RegularItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Bookerly';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-BoldItalic.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-BoldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-BoldItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-BoldItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Bookerly';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-Bold.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/bookerly/Bookerly-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-weight: bold;
+  font-style: normal;
+}

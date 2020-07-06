@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Literata';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Regular.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Regular.otf')  format('opentype') /* this was ttf, not sure what prefers otf */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Literata';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Italic.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Italic.otf')  format('opentype') /* this was ttf, not sure what prefers otf */
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Literata';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Bold_Italic.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Bold_Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Bold_Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Bold_Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Bold_Italic.otf')  format('opentype') /* this was ttf, not sure what prefers otf */
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Literata';
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Bold.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://rawcdn.githack.com/Efreak/UserScripts/b14ced93e28935cccd1283d6b0cd88e1ae90acdc/reading-fonts/Literata-Bold.otf')  format('opentype') /* this was ttf, not sure what prefers otf */
+  font-weight: bold;
+  font-style: normal;
+}
