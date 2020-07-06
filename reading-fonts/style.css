@@ -1,0 +1,36 @@
+p {
+    font-family: bookerly;
+    font-size: 16pt!important;
+    line-height:1.4!important;
+}
+
+* {
+    background-color: #222;
+}
+/* leave other items (links, etc) alone. But make it important, because some sites are already using !important, and need it to be overridden :/ */
+p,h1,h2,h3,h4,h5,h6 {
+    color: #ccc!important;
+}
+
+/* These uris gotten from shinsori.com, they show up even with javascript disabled. */
+a[href*='a.jlist.com'],a[href*='https://www.facebook.com/sharer.php'],a[href*='https://twitter.com/intent/tweet'],a[href*='https://www.linkedin.com/shareArticle'],a[href*='https://tumblr.com/share'],a[href*='https://pinterest.com/pin/create'],a[href*='https://reddit.com/submit'],a[href*='https://vk.com/share.php'],a[href*='/cdn-cgi/l/email-protection'] {
+    display: none;
+}
+
+/* Not sure how many places are using these; separate to make it easier to disable... */
+div.share-links.share-centered {
+    display: none;
+}
+div.stream-item.stream-item-below-post {
+    display: none;
+}
+div.theiaStickySidebar {
+    display: none;
+}
+div.post-footer.post-footer-on-bottom {
+    display: none;
+}
+/* reset the width of the main column after removing the second column. applies on shinsori.com on desktop, so far */
+.tie-col-md-8 {
+    width: initial
+}
