@@ -1,0 +1,13 @@
+@-moz-document domain("yurikatrans.xyz") {
+    @import url('https://efreak.github.io/UserScripts/reading-fonts/bookerly.css');
+    * {
+        color: #eee;
+        background-color: #222;
+
+    }
+    p {
+        font-size: 16pt;
+        line-height: 22pt;
+        font-family: Bookerly;
+    }
+}
